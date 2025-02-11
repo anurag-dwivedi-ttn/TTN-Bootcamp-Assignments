@@ -1,3 +1,5 @@
+//Q1- Implement following functional interfaces from java.util.function using lambdas: 1. Consumer 2. Supplier 3. Predicate 4. Function
+
 import java.util.function.*;
 public class Question1 {
     public static void main(String[] args) {

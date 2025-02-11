@@ -1,4 +1,5 @@
 // Q2- Create and access default and static method of an interface.
+
 interface Question2 {
     // Default method
     default void defaultMethod() {
