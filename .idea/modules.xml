@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Beyond Java 8 Features-1/Beyond Java 8 Features-1.iml" filepath="$PROJECT_DIR$/Beyond Java 8 Features-1/Beyond Java 8 Features-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beyond Java 8 Features-2/Beyond Java 8 Features-2.iml" filepath="$PROJECT_DIR$/Beyond Java 8 Features-2/Beyond Java 8 Features-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bootcamp-2025-Assignment.iml" filepath="$PROJECT_DIR$/Bootcamp-2025-Assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java 8 Features -2/Java 8 Features -2.iml" filepath="$PROJECT_DIR$/Java 8 Features -2/Java 8 Features -2.iml" />
     </modules>
