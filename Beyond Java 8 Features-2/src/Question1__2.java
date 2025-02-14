@@ -9,7 +9,7 @@ record Student(int id, String name, String standard) {
         Objects.requireNonNull(standard, "Standard cannot be null");
     }
 }
-public class Question1_2 {
+public class Question1__2 {
     public static void main(String[] args) {
         try {
             Student student1 = new Student(1, "Anurag", "Final Year");
