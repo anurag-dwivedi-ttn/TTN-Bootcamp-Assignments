@@ -1,3 +1,5 @@
+// Q3)-WAP to showcase the usage of volatile in java.
+
 class Shared {
     volatile boolean running = true; //
 }
