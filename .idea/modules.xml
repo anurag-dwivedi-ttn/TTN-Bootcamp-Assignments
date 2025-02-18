@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basics of Multithreading-1/Basics of Multithreading-1.iml" filepath="$PROJECT_DIR$/Basics of Multithreading-1/Basics of Multithreading-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Beyond Java 8 Features-1/Beyond Java 8 Features-1.iml" filepath="$PROJECT_DIR$/Beyond Java 8 Features-1/Beyond Java 8 Features-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Beyond Java 8 Features-2/Beyond Java 8 Features-2.iml" filepath="$PROJECT_DIR$/Beyond Java 8 Features-2/Beyond Java 8 Features-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bootcamp-2025-Assignment.iml" filepath="$PROJECT_DIR$/Bootcamp-2025-Assignment.iml" />
